@@ -9,7 +9,7 @@ server:
       hostname: localhost
 
 spring:
-  clour:
+  cloud:
     gateway:
       discovery:
         locator:
